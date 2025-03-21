@@ -1,2 +1,2 @@
-سFlask
+Flask
 gunicorn
